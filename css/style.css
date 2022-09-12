@@ -10,3 +10,22 @@ header {
     width: 30%;
     margin-top: 8%;
 }
+
+/* Marker */
+#mark1  {
+    background-color: yellow;
+}
+
+
+#img_bottom   {
+    position: relative;
+    text-align: left;
+    color: white;
+} 
+
+#title_img_position_1 {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
