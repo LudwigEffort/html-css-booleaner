@@ -3,6 +3,12 @@ header {
     background-image: url(../img/pattern.png);
     background-color: blue;
     width: 100%;
+    padding-left: 10%;
+}
+
+#main    {
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 /* Logo style */
