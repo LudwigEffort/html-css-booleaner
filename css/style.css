@@ -11,12 +11,27 @@ header {
     margin-top: 8%;
 }
 
+/* Table rule style */
+
+thead  {
+    background-color: blue;
+    color: white;
+}
+
+tbody   {
+    text-align: center;
+}
+
+#blue   {
+    background-color: aqua;
+}
+
 /* Marker */
 #mark1  {
     background-color: yellow;
 }
 
-
+/* Image rules style */
 #img_bottom   {
     position: relative;
     text-align: left;
