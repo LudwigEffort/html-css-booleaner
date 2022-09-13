@@ -19,6 +19,10 @@ header {
 
 /* Table rule style */
 
+table   {
+    border-collapse: collapse;
+}
+
 thead  {
     background-color: blue;
     color: white;
